@@ -9,3 +9,6 @@ An audit of a TPT contest outcome may require confirming that the relevant
 plurality nodes have correct values.  In a typical case with only two candidates,
 the relevant nodes constitute a binary tree that is a proper subset of the overall
 ternary tree.
+
+The method is described in a Jupyter notebook (TPT.ipynb) with executable
+Julia code.
